@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumya
-- 👀 I’m interested in Web-development, Game-development, Data-Analytics, 2D/3D animations
+- 👀 I’m interested in Web-development, Game-development, Data-Analytics, AI,  2D/3D animations
 - 🌱 I’m currently studying at Techno Main Salt Lake, Kolkata
-- 💞️ I’m looking to intern/work remotely on any IT sector.
+- 💞️ I’m looking to intern/work remotely on any IT project.
 - 📫 How to reach me @soumyakantivp@gmail.com
 
 <!---
